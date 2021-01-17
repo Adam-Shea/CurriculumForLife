@@ -135,8 +135,11 @@ a {
 
 @media only screen and (max-width: 820px) {
     .about {
-        margin-top: 100px;
+        margin-top: 0px;
         max-width: 90%;
+    }
+    .header {
+        height: 40vh;
     }
 }
 
