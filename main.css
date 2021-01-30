@@ -115,6 +115,9 @@ a {
     justify-content: center;
     align-items: center;
     margin: 0px 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .contentTitle a {
@@ -178,4 +181,8 @@ a {
     .reverse p {
         text-align: center !important;
     }
+}
+
+.tableDesc {
+    width: 500px;
 }
